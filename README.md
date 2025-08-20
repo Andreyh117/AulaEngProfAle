@@ -6,4 +6,4 @@ A principal motivação para a criação do Git foi a necessidade de um sistema 
 
 Desde sua criação, o Git se tornou uma das ferramentas mais populares para controle de versão, sendo amplamente utilizado em projetos de software de todos os tamanhos. Ele permite que desenvolvedores rastreiem mudanças no código, colaborem de forma eficiente e mantenham um histórico completo de alterações.
 
-Hoje, o Git é uma peça fundamental no desenvolvimento de software moderno, sendo utilizado em conjunto com plataformas como GitHub, GitLab e Bitbucket para facilitar o trabalho em equipe e a integração contínua.
+Hoje, o Git é uma peça fundamental no desenvolvimento de software moderno, sendo utilizado em conjunto com plataformas como GitHub, GitLab e Bitbucket para facilitar o trabalho em equipe e a integração contínua. 
